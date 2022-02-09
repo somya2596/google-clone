@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 
 import API_KEY from "./Keys";
 
-const CONTEXT_KEY = "9149afa6d4cc22f4f";
+const CONTEXT_KEY = "your context key";
 
 //making custom hook
 //here term is data layer variable which we will search
