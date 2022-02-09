@@ -21,10 +21,10 @@ function SearchPage() {
 
   console.log("term in seacrh page***********", term);
   //LIVE API CALL ****************************************
-  // const { data } = useGoogleSearch(term);
+  const { data } = useGoogleSearch(term);
 
   //MOCK api call
-  const data = Response;
+  // const data = Response;
   //https:cse.google.com/cse/create/new -> to get the id
   console.log("dataaaaa", data);
 
