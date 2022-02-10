@@ -1,5 +1,5 @@
 # Getting Started with React App for GOOGLE-CLONE
-## Live Website : https://clone-b58d2.web.app/
+## Live Website : https://master.d2xo99tavw9dna.amplifyapp.com/
 ### Here mainly the Focus is on following:
 1.Responsive web Page.
 2.Implemented Context--API and react-redux.
